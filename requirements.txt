@@ -1,1 +1,11 @@
 seleniumbase~=4.16.2
+pandas~=2.0.3
+openpyxl~=3.1.2
+xlsxwriter~=3.1.2
+allure-pytest
+pytest~=7.4.0
+numpy~=1.25.1
+watchdog
+openpyxl-image-loader
+configparser~=6.0.0
+selenium~=4.10.0
